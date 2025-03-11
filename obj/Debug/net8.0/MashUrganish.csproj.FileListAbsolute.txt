@@ -1,0 +1,14 @@
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\bin\Debug\net8.0\MashUrganish.exe
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\bin\Debug\net8.0\MashUrganish.deps.json
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\bin\Debug\net8.0\MashUrganish.runtimeconfig.json
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\bin\Debug\net8.0\MashUrganish.dll
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\bin\Debug\net8.0\MashUrganish.pdb
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\MashUrganish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\MashUrganish.AssemblyInfoInputs.cache
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\MashUrganish.AssemblyInfo.cs
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\MashUrganish.csproj.CoreCompileInputs.cache
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\MashUrganish.dll
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\refint\MashUrganish.dll
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\MashUrganish.pdb
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\MashUrganish.genruntimeconfig.cache
+C:\Users\V I C T U S\source\repos\MashUrganish\MashUrganish\obj\Debug\net8.0\ref\MashUrganish.dll
